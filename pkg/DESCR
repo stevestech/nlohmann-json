@@ -1,0 +1,4 @@
+nlohmann-json is an open-source JSON library consisting of a C++11-style 
+header-only JSON class. It features an intuitive syntax mimicking first-class 
+Python dictionary syntax via operator overloading, straightforward single-header 
+integration, and heavy unit testing.
